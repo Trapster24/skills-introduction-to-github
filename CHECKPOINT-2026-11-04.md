@@ -54,6 +54,14 @@ The full file was saved inside that session's container (`/home/user/reports/Cod
 - **vidIQ:** 60-day test, cancel if it changes fewer than three decisions.
 - Codebreakers: let the documentary test finish 6 Dec, then stop changing format.
 
+### Where the other outputs live
+Most older sessions never pushed their branches (only the research branch reached GitHub). Their deliverables survive as published claude.ai artifacts instead, e.g.:
+- Studio Notes Locker / Aicha pack: https://claude.ai/artifact/7X5SNRivXF4aiBNxPQ6dWV and https://claude.ai/artifact/P63dvijKWt1K2BSfjjs9aP
+- Catalogue Refresh Pack: https://claude.ai/artifact/MdcjvJkv1W94Xv9XAUpgLy
+- Passive Deep Mix Vol. 1 Pack: https://claude.ai/artifact/Hmd98kBTcoR99jZmQjfndV
+- Lakkatura plans: https://claude.ai/artifact/9KvcyFCzSZeMHYWRJkH5Xv (v1), https://claude.ai/artifact/DFav2YvYzNMh6QMaBNrHwf (v2)
+- Studio Action Board, Codebreakers 2.0 Master Plan, Studio Reset Plan, etc. — see the artifact gallery (49 total).
+
 ## 5. Open decisions (the real to-do list)
 
 1. Approve / reject Higgsfield plate 1 (in that session).
